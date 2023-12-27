@@ -1,0 +1,1308 @@
+﻿1
+00:00:10,838 --> 00:00:11,958
+<font face="Arabic Typesetting" size="14" color="white">مقهى لعبة النرد</font>
+
+2
+00:00:15,910 --> 00:00:18,240
+<font face="Arabic Typesetting" size="14" color="white">هي، جئت مبكراً</font>
+
+3
+00:00:18,620 --> 00:00:21,000
+<font face="Arabic Typesetting" size="14" color="white">هل يقوم أحد قط بزيارة هذا المقهى باستثنائي؟</font>
+
+4
+00:00:21,290 --> 00:00:22,750
+<font face="Arabic Typesetting" size="14" color="white">اصمت</font>
+
+5
+00:00:22,750 --> 00:00:24,710
+<font face="Arabic Typesetting" size="14" color="white">المكانـ مزدحم في الليل</font>
+
+6
+00:00:28,960 --> 00:00:32,130
+<font face="Arabic Typesetting" size="14" color="white">حسناً، ماذا كانت تلكـ الصورة التي قمت بإرسالها؟</font>
+
+7
+00:00:34,380 --> 00:00:36,640
+<font face="Arabic Typesetting" size="14" color="white">إنها نوعاً ما قصة طويلة</font>
+
+8
+00:00:37,890 --> 00:00:39,810
+<font face="Arabic Typesetting" size="14" color="white">أسمعت بهذهـ؟</font>
+
+9
+00:00:42,140 --> 00:00:43,180
+<font face="Arabic Typesetting" size="14" color="white">لعبة؟</font>
+
+10
+00:00:43,180 --> 00:00:47,690
+<font face="Arabic Typesetting" size="14" color="white">
+إنها لعبة انترنت متعددة اللاعبينـ لجهاز الأموسفير جيل جديد منـ أجهزة اللعب صدر بعد خوذة اللعب النيرفجير</font>
+
+11
+00:00:48,860 --> 00:00:52,610
+<font face="Arabic Typesetting" size="14" color="white">إذاً لعبة انترنت افتراضية أخرى مثل لعبة فنـ السيف على الانترنت؟</font>
+
+12
+00:00:53,650 --> 00:00:56,200
+<font face="Arabic Typesetting" size="14" color="white">ألف-هييم على الانترنت؟</font>
+
+13
+00:00:56,820 --> 00:00:59,410
+<font face="Arabic Typesetting" size="14" color="white">يفترض أنـ تنطقها ألفهييم</font>
+
+14
+00:00:59,910 --> 00:01:02,160
+<font face="Arabic Typesetting" size="14" color="white">"و تعني "أرض الجنـ</font>
+
+15
+00:01:03,290 --> 00:01:04,460
+<font face="Arabic Typesetting" size="14" color="white">جنـ؟</font>
+
+16
+00:01:09,661 --> 00:01:15,081
+<font face="Arabic Typesetting" size="14" color="cyan">♪مشاعريـ التيـ أخفيها تصرخ باكية♪</font>
+
+17
+00:01:15,120 --> 00:01:20,140
+<font face="Arabic Typesetting" size="14" color="cyan">♪بينما ألتزم بعهد لا أتراجعـ عنهـ♪</font>
+
+18
+00:01:23,309 --> 00:01:30,709
+<font face="Arabic Typesetting" size="14" color="cyan">فنـ السيف على الانترنت</font>
+
+19
+00:01:23,309 --> 00:01:30,709
+{\an8}
+<font face="Arabic Typesetting" size="12" color="cyan">
+Fadi_ : هذه الترجمة بواسطة
+</font>
+
+20
+00:01:30,721 --> 00:01:31,841
+<font face="Arabic Typesetting" size="14" color="cyan">♪أسعى♪</font>
+
+21
+00:01:32,199 --> 00:01:33,319
+<font face="Arabic Typesetting" size="14" color="cyan">♪لـلاشيء عدا♪</font>
+
+22
+00:01:34,392 --> 00:01:35,512
+<font face="Arabic Typesetting" size="14" color="cyan">♪معجزة♪</font>
+
+23
+00:01:36,306 --> 00:01:37,406
+<font face="Arabic Typesetting" size="14" color="cyan">♪أتجول♪</font>
+
+24
+00:01:37,432 --> 00:01:41,052
+<font face="Arabic Typesetting" size="14" color="cyan">♪فيـ الظلامـ الذيـ لا ينتهيـ♪</font>
+
+25
+00:01:41,295 --> 00:01:42,415
+<font face="Arabic Typesetting" size="14" color="cyan">♪إنـ♪</font>
+
+26
+00:01:42,475 --> 00:01:46,195
+<font face="Arabic Typesetting" size="14" color="cyan">♪إنـ بقيتـ هنا فلنـ أبداً أكونـ قادراً على♪</font>
+
+27
+00:01:46,447 --> 00:01:52,067
+<font face="Arabic Typesetting" size="14" color="cyan">♪رؤية المستقبل مرة أخرى♪</font>
+
+28
+00:01:52,157 --> 00:01:54,577
+<font face="Arabic Typesetting" size="14" color="cyan">♪القمر هذهـ الليلة خلابـ♪</font>
+
+29
+00:01:54,671 --> 00:01:57,091
+<font face="Arabic Typesetting" size="14" color="cyan">♪لازلتـ لا أستطيعـ أنـ أقول تلكـ الكلمة♪</font>
+
+30
+00:01:57,130 --> 00:02:00,950
+<font face="Arabic Typesetting" size="14" color="cyan">♪لكنـ أريد أنـ أستمر صارخا بها فيـ قلبيـ♪</font>
+
+31
+00:02:02,502 --> 00:02:07,522
+<font face="Arabic Typesetting" size="14" color="cyan">♪مشاعريـ التيـ أخفيها تصرخ باكية♪</font>
+
+32
+00:02:07,560 --> 00:02:12,580
+<font face="Arabic Typesetting" size="14" color="cyan">♪بينما ألتزم بعهد لا أتراجع عنهـ♪</font>
+
+33
+00:02:12,597 --> 00:02:18,317
+<font face="Arabic Typesetting" size="14" color="cyan">♪لو أستطيع فقط أنـ أصبح أكثر قوة قليلاً♪</font>
+
+34
+00:02:18,323 --> 00:02:21,743
+<font face="Arabic Typesetting" size="14" color="cyan">♪عندها سأذهب إلى ما وراء السماء♪</font>
+
+35
+00:02:21,802 --> 00:02:24,122
+<font face="Arabic Typesetting" size="14" color="cyan">♪التيـ أمامـ عينيـ♪</font>
+
+36
+00:02:26,245 --> 00:02:29,865
+<font face="Arabic Typesetting" size="14" color="cyan">♪عندها سأتحركـ باتجاهـ المستقبل♪</font>
+
+37
+00:02:29,890 --> 00:02:32,110
+<font face="Arabic Typesetting" size="14" color="cyan">♪الذيـ ينتظرنيـ فيـ الأمام♪</font>
+
+38
+00:02:38,010 --> 00:02:42,050
+<font face="Arabic Typesetting" size="14" color="cyan">أرض الجنـ</font>
+
+39
+00:02:42,390 --> 00:02:44,810
+<font face="Arabic Typesetting" size="14" color="white">أرض الجنـ؟</font>
+
+40
+00:02:45,100 --> 00:02:46,600
+<font face="Arabic Typesetting" size="14" color="white">إذاً هي في مجملها لعبة اجتماعية؟</font>
+
+41
+00:02:46,600 --> 00:02:49,230
+<font face="Arabic Typesetting" size="14" color="white">لا، يفترض أنـ لا تكونـ كذلكـ</font>
+
+42
+00:02:50,850 --> 00:02:53,730
+<font face="Arabic Typesetting" size="14" color="white">هناكـ تركيز كبير على مهارة اللاعب</font>
+
+43
+00:02:53,730 --> 00:02:55,190
+<font face="Arabic Typesetting" size="14" color="white">قتل اللاعبينـ شيء مشجع عليهـ</font>
+
+44
+00:02:55,610 --> 00:02:57,110
+<font face="Arabic Typesetting" size="14" color="white">مهارة اللاعب؟</font>
+
+45
+00:02:57,110 --> 00:02:59,570
+<font face="Arabic Typesetting" size="14" color="white">ليس هناكـ مستويات حقيقية، ولذلكـ</font>
+
+46
+00:03:00,030 --> 00:03:03,490
+<font face="Arabic Typesetting" size="14" color="white">اللاعب يطور مستواهـ عنـ طريق استخدام المهارات</font>
+
+47
+00:03:03,490 --> 00:03:06,660
+<font face="Arabic Typesetting" size="14" color="white">الحركات القتالية تعتمد على قدرة اللاعب الحيوية</font>
+
+48
+00:03:06,660 --> 00:03:08,410
+<font face="Arabic Typesetting" size="14" color="white">مفهوم</font>
+
+49
+00:03:08,410 --> 00:03:12,670
+<font face="Arabic Typesetting" size="14" color="white">مثل لعبة فنـ السيف على الانترنت ولكنـ بدون مهارات السيوف، فقط قدرات خاصة</font>
+
+50
+00:03:12,670 --> 00:03:15,210
+<font face="Arabic Typesetting" size="14" color="white">إنـ لها شعبية كبيرة</font>
+
+51
+00:03:15,750 --> 00:03:18,130
+<font face="Arabic Typesetting" size="14" color="white">وذلكـ حسب ما سمعت بسبب ميزة التحليقـ</font>
+
+52
+00:03:18,130 --> 00:03:19,130
+<font face="Arabic Typesetting" size="14" color="white">تحليق؟</font>
+
+53
+00:03:19,590 --> 00:03:21,590
+<font face="Arabic Typesetting" size="14" color="white">أنت جني، لذا تملكـ أجنحة</font>
+
+54
+00:03:21,590 --> 00:03:23,970
+<font face="Arabic Typesetting" size="14" color="white">"تحوي على شيء يسمى بـ "محركـ التحليق</font>
+
+55
+00:03:23,970 --> 00:03:26,510
+<font face="Arabic Typesetting" size="14" color="white">تستطيع الطيرانـ عندما تعتاد عليهـ</font>
+
+56
+00:03:27,680 --> 00:03:29,350
+<font face="Arabic Typesetting" size="14" color="white">كيف يُتحكم بهـ؟</font>
+
+57
+00:03:29,350 --> 00:03:30,770
+<font face="Arabic Typesetting" size="14" color="white">لا أعلم</font>
+
+58
+00:03:30,770 --> 00:03:32,980
+<font face="Arabic Typesetting" size="14" color="white">لكنـ سمعت أنهـ صعب جداً</font>
+
+59
+00:03:33,400 --> 00:03:34,940
+<font face="Arabic Typesetting" size="14" color="white">لابد أنـ يكونـ صعباً</font>
+
+60
+00:03:34,940 --> 00:03:37,690
+<font face="Arabic Typesetting" size="14" color="white">أنـ تتحكم بأجنحة بينما أنت كبشر لا تملكها في الحياة الحقيقية</font>
+
+61
+00:03:38,400 --> 00:03:40,650
+<font face="Arabic Typesetting" size="14" color="white">ربما يتحكم بها عنـ طريق العضلات التي في الظهر؟</font>
+
+62
+00:03:43,280 --> 00:03:47,160
+<font face="Arabic Typesetting" size="14" color="white">إذاً ما دخل أسونا في موضوع هذهـ اللعبة العالية الشعبية؟</font>
+
+63
+00:03:50,120 --> 00:03:51,290
+<font face="Arabic Typesetting" size="14" color="white">ماذا تعتقد؟</font>
+
+64
+00:03:52,710 --> 00:03:55,210
+<font face="Arabic Typesetting" size="14" color="white">إنها تشبهـ أسونا</font>
+
+65
+00:03:55,630 --> 00:03:57,290
+<font face="Arabic Typesetting" size="14" color="white">اعتقدت أنكـ ستقول هذا</font>
+
+66
+00:03:57,290 --> 00:03:58,840
+<font face="Arabic Typesetting" size="14" color="white">فقط أخبرني</font>
+
+67
+00:03:58,840 --> 00:04:00,510
+<font face="Arabic Typesetting" size="14" color="white">أينـ هذا؟</font>
+
+68
+00:04:00,510 --> 00:04:04,090
+<font face="Arabic Typesetting" size="14" color="white">داخل لعبة أرض الجنـ على الانترنت</font>
+
+69
+00:04:05,890 --> 00:04:08,260
+<font face="Arabic Typesetting" size="14" color="white">عند مايسمى بشجرة العالم</font>
+
+70
+00:04:09,100 --> 00:04:11,980
+<font face="Arabic Typesetting" size="14" color="white">قلعة أسطورية تقع في أعلى تلكـ الشجرة</font>
+
+71
+00:04:12,640 --> 00:04:15,520
+<font face="Arabic Typesetting" size="14" color="white">،اللاعبونـ مقسمونـ إلى تسعة أعراقـ</font>
+
+72
+00:04:15,520 --> 00:04:19,690
+<font face="Arabic Typesetting" size="14" color="white">جميعهم يسعى للوصول إلى القلعة أولاً</font>
+
+73
+00:04:20,400 --> 00:04:22,360
+<font face="Arabic Typesetting" size="14" color="white">ولم ذلكـ، أولا يمكنهم التحليقـ إليها؟</font>
+
+74
+00:04:22,360 --> 00:04:26,990
+<font face="Arabic Typesetting" size="14" color="white">هناكـ حد لمدة التحليق لذا لايمكنكـ التحليق للأبد</font>
+
+75
+00:04:26,990 --> 00:04:31,120
+<font face="Arabic Typesetting" size="14" color="white">ولذا خمسة لاعبينـ اصطفوا ، ضخام البنية في الأسفل</font>
+
+76
+00:04:31,120 --> 00:04:33,000
+<font face="Arabic Typesetting" size="14" color="white">و حلقوا للسماء كالصاروخ</font>
+
+77
+00:04:34,420 --> 00:04:35,920
+<font face="Arabic Typesetting" size="14" color="white">...فهمت</font>
+
+78
+00:04:35,920 --> 00:04:37,920
+<font face="Arabic Typesetting" size="14" color="white">حركة حمقاء لكنها أيضاً ذكية جداً</font>
+
+79
+00:04:38,460 --> 00:04:42,170
+<font face="Arabic Typesetting" size="14" color="white">ولكنهم حتى لم يصلوا إلى أدنى فرع منـ الشجرة</font>
+
+80
+00:04:42,170 --> 00:04:44,470
+<font face="Arabic Typesetting" size="14" color="white">لكنهم استطاعوا أخذ بعض الصور</font>
+
+81
+00:04:44,470 --> 00:04:47,800
+<font face="Arabic Typesetting" size="14" color="white">وشيء غريب كانـ في إحداها</font>
+
+82
+00:04:48,930 --> 00:04:50,470
+<font face="Arabic Typesetting" size="14" color="white">قفص عصافير؟</font>
+
+83
+00:04:50,470 --> 00:04:54,270
+<font face="Arabic Typesetting" size="14" color="white">و عندما قاموا بتكبير صورة القفص بأقصى مايمكنهم</font>
+
+84
+00:04:55,140 --> 00:04:56,770
+<font face="Arabic Typesetting" size="14" color="white">وجدوا هذا</font>
+
+85
+00:04:57,150 --> 00:05:00,440
+<font face="Arabic Typesetting" size="14" color="white">لكنـ لم أسونا ستكونـ هناكـ؟</font>
+
+86
+00:05:02,150 --> 00:05:04,530
+<font face="Arabic Typesetting" size="14" color="white">شركة ركت؟</font>
+
+87
+00:05:02,150 --> 00:05:04,530
+{\an8}
+<font face="Arabic Typesetting" size="12" color="cyan">ركت : شركة الكترونيات مؤسسها و يترأسها والد أسونا</font>
+
+88
+00:05:05,650 --> 00:05:07,490
+<font face="Arabic Typesetting" size="14" color="white">بإمكانكـ القول حتى</font>
+
+89
+00:05:07,490 --> 00:05:10,530
+<font face="Arabic Typesetting" size="14" color="white">...أنني أنا الشخص الذي أبقي أسونا على قيد الحياة</font>
+
+90
+00:05:13,660 --> 00:05:16,920
+<font face="Arabic Typesetting" size="14" color="white">عقيل، إبإمكاني الاحتفاظ بهذهـ؟</font>
+
+91
+00:05:16,920 --> 00:05:19,710
+<font face="Arabic Typesetting" size="14" color="white">لا مانع لدي، لكنـ هل أنت ذاهب إلى هناكـ؟</font>
+
+92
+00:05:19,710 --> 00:05:21,250
+<font face="Arabic Typesetting" size="14" color="white">لابد أنـ أرى بنفسي</font>
+
+93
+00:05:22,630 --> 00:05:25,720
+<font face="Arabic Typesetting" size="14" color="white">ستكونـ سهلة جداً مادام الموت فيها ممكنٌـ</font>
+
+94
+00:05:30,430 --> 00:05:32,430
+<font face="Arabic Typesetting" size="14" color="white">سأحتاج إلى شراء العتاد، أيضاً</font>
+
+95
+00:05:33,020 --> 00:05:34,980
+<font face="Arabic Typesetting" size="14" color="white">إنها تعمل على خوذة اللعب القديمة أيضاً</font>
+
+96
+00:05:34,980 --> 00:05:39,060
+<font face="Arabic Typesetting" size="14" color="white">الجهاز الجديد يعمل بنفس طريقة الخوذة ولكنـ بمستوى أمان أعلى</font>
+
+97
+00:05:39,560 --> 00:05:41,400
+<font face="Arabic Typesetting" size="14" color="white">سعيد لسماع هذا</font>
+
+98
+00:05:41,400 --> 00:05:43,650
+<font face="Arabic Typesetting" size="14" color="white">اذهب و انقذ أسونا</font>
+
+99
+00:05:43,980 --> 00:05:47,450
+<font face="Arabic Typesetting" size="14" color="white">غير ذلكـ، قتالنا لنـ ينتهي حقاً</font>
+
+100
+00:05:47,740 --> 00:05:50,910
+<font face="Arabic Typesetting" size="14" color="white">أجل، نحنـ بإمكاننا الالتقاء هنا جميعاً يوما ما</font>
+
+101
+00:06:06,090 --> 00:06:08,430
+<font face="Arabic Typesetting" size="14" color="white">!أنا غبية جداً</font>
+
+102
+00:06:08,430 --> 00:06:09,640
+<font face="Arabic Typesetting" size="14" color="white">أنا عدت</font>
+
+103
+00:06:11,390 --> 00:06:12,550
+<font face="Arabic Typesetting" size="14" color="white">!أخي</font>
+
+104
+00:06:25,110 --> 00:06:26,400
+<font face="Arabic Typesetting" size="14" color="white">هنا</font>
+
+105
+00:06:30,990 --> 00:06:33,080
+<font face="Arabic Typesetting" size="14" color="white">كنت أعتقد أنني سأموت</font>
+
+106
+00:06:33,080 --> 00:06:35,200
+<font face="Arabic Typesetting" size="14" color="white">أنت دائماً مهملة هكذا</font>
+
+107
+00:06:35,200 --> 00:06:36,830
+<font face="Arabic Typesetting" size="14" color="white">اهدأي قليلاً</font>
+
+108
+00:06:39,540 --> 00:06:41,790
+<font face="Arabic Typesetting" size="14" color="white">...سوقو، بخصوص الليلة الماضية</font>
+
+109
+00:06:41,790 --> 00:06:43,750
+<font face="Arabic Typesetting" size="14" color="white">أ أجل؟</font>
+
+110
+00:06:44,130 --> 00:06:46,550
+<font face="Arabic Typesetting" size="14" color="white">...أم... حسناً</font>
+
+111
+00:06:47,050 --> 00:06:48,010
+<font face="Arabic Typesetting" size="14" color="white">شكراً لكـ</font>
+
+112
+00:06:49,510 --> 00:06:52,050
+<font face="Arabic Typesetting" size="14" color="white">بفضلكـ شعرت بحال أفضل</font>
+
+113
+00:06:52,640 --> 00:06:54,560
+<font face="Arabic Typesetting" size="14" color="white">لنـ أستسلم</font>
+
+114
+00:06:55,100 --> 00:06:57,470
+<font face="Arabic Typesetting" size="14" color="white">أنا سأقوم بإعادة أسونا</font>
+
+115
+00:06:59,180 --> 00:07:00,140
+<font face="Arabic Typesetting" size="14" color="white">أجل</font>
+
+116
+00:07:00,890 --> 00:07:02,270
+<font face="Arabic Typesetting" size="14" color="white">حظا سعيدا</font>
+
+117
+00:07:02,270 --> 00:07:04,770
+<font face="Arabic Typesetting" size="14" color="white">أريد أنـ أقابلها، أيضا</font>
+
+118
+00:07:05,820 --> 00:07:07,740
+<font face="Arabic Typesetting" size="14" color="white">أنا متأكد أنكـ ستحبينها</font>
+
+119
+00:07:08,190 --> 00:07:10,490
+<font face="Arabic Typesetting" size="14" color="white">أراكـ لاحقاً</font>
+
+120
+00:07:26,500 --> 00:07:31,840
+<font face="Arabic Typesetting" size="14" color="white">الحفل سيقام في غرفة المشفى هذهـ بعد أسبوع واحد، في الـ 26 منـ يناير</font>
+
+121
+00:07:31,840 --> 00:07:33,430
+<font face="Arabic Typesetting" size="14" color="white">سأقوم بدعوتكـ</font>
+
+122
+00:07:34,260 --> 00:07:37,930
+<font face="Arabic Typesetting" size="14" color="white">أرجوكـ ساعدني مرة أخرى</font>
+
+123
+00:07:49,530 --> 00:07:50,940
+<font face="Arabic Typesetting" size="14" color="white">!بدء الاتصال</font>
+
+124
+00:08:03,000 --> 00:08:05,460
+<font face="Arabic Typesetting" size="14" color="white">مرحبابكـ في أرض الجنـ على الانترنت</font>
+
+125
+00:08:08,250 --> 00:08:12,130
+<font face="Arabic Typesetting" size="14" color="white">قم أولاً باختيار جنسكـ و اسم شخصيتكـ</font>
+
+126
+00:08:15,010 --> 00:08:18,470
+<font face="Arabic Typesetting" size="14" color="white">إذاً أنت البطل كيريتو؟</font>
+
+127
+00:08:25,833 --> 00:08:26,953
+<font face="Arabic Typesetting" size="14" color="white">كيريتو</font>
+
+128
+00:08:28,286 --> 00:08:29,406
+{\an9}
+<font face="Arabic Typesetting" size="10" color="cyan">
+الأعراق التسعة من اليسار إلى اليمينـ
+الكيتـ سثـ : يتميزونـ بمهارة ترويض الحيوانات و النظر الحاد آذانهم تشبهـ آذانـ القطط و لديهم ذيل
+بيوكا : مستخدموا الموسيقى للإرباكـ، الهجوم أو المساندة
+لابركانـ : عرق الحدادينـ لديهم أجنحة ميكانيكية
+</font>
+
+129
+00:08:29,270 --> 00:08:31,900
+<font face="Arabic Typesetting" size="14" color="white">الآنـ اختر العرق الذي تريدهـ</font>
+
+130
+00:08:30,559 --> 00:08:31,679
+{\an9}
+<font face="Arabic Typesetting" size="10" color="cyan">
+سلمندر : العرق الأقوى في الهجوم لديهم تعويذات خاصة و يتميزونـ باللونـ الأحمر
+</font>
+
+131
+00:08:31,900 --> 00:08:35,110
+<font face="Arabic Typesetting" size="14" color="white">لطفاً إختر أحد الأعراق التسعة</font>
+
+132
+00:08:33,349 --> 00:08:34,469
+{\an9}
+<font face="Arabic Typesetting" size="10" color="cyan">
+سيلفـ : العرق الأسرع و مستخدموا الرياح عادة ما يتميزونـ باللونـ الأخضر
+النوم : العرق الأكبر و الساكنونـ في الأرض يتميزونـ بالملابس ذو اللونـ البني
+</font>
+
+133
+00:08:38,660 --> 00:08:39,950
+<font face="Arabic Typesetting" size="14" color="white">سأختار هذا</font>
+
+134
+00:08:39,775 --> 00:08:40,919
+{\an9}
+<font face="Arabic Typesetting" size="10" color="cyan">
+سبريقنـ : المتميزونـ في الخداع و الوهم الباحثونـ عنـ الكنوز متميزونـ باللونـ الأسود
+الإمبـ : متميزونـ في الليل لديهم رؤية ليلية قوية يتميزونـ باللونـ البنفسجي
+أندينـ : المعالجونـ و مستخدموا المياهـ متميزونـ باللونـ الأزرق
+</font>
+
+135
+00:08:41,120 --> 00:08:42,960
+<font face="Arabic Typesetting" size="14" color="white">سبريقنـ، صحيح؟</font>
+
+136
+00:08:43,460 --> 00:08:46,580
+<font face="Arabic Typesetting" size="14" color="white">مظهر شخصيتكـ سيتم تقريرهـ عشوائياً</font>
+
+137
+00:08:46,580 --> 00:08:47,960
+<font face="Arabic Typesetting" size="14" color="white">هل هذا مناسب لكـ؟</font>
+
+138
+00:08:50,420 --> 00:08:54,090
+<font face="Arabic Typesetting" size="14" color="white">أنتـ الآن ستنقل إلى المدينة الرئيسية داخل أرض السبريقنـ</font>
+
+139
+00:08:54,590 --> 00:08:56,220
+<font face="Arabic Typesetting" size="14" color="white">حظاً سعيداً</font>
+
+140
+00:09:22,830 --> 00:09:24,250
+<font face="Arabic Typesetting" size="14" color="white">ماذا؟</font>
+
+141
+00:09:28,830 --> 00:09:31,920
+<font face="Arabic Typesetting" size="14" color="white">!مالذي يحدث؟</font>
+
+142
+00:09:41,470 --> 00:09:46,810
+{\an8}
+<font face="Arabic Typesetting" size="12" color="cyan">أرض الجنـ، الغابة القديمة، المقاطعة المحايدة     الـ 20 منـ يناير 2025</font>
+
+143
+00:10:01,490 --> 00:10:03,330
+<font face="Arabic Typesetting" size="14" color="white">...عدت إلى هنا</font>
+
+144
+00:10:05,120 --> 00:10:07,710
+<font face="Arabic Typesetting" size="14" color="white">بعد كل ما حدث</font>
+
+145
+00:10:09,880 --> 00:10:11,840
+<font face="Arabic Typesetting" size="14" color="white">!لحظة، أينـ أنا؟</font>
+
+146
+00:10:23,060 --> 00:10:24,260
+<font face="Arabic Typesetting" size="14" color="white">!ها هي</font>
+
+147
+00:10:24,640 --> 00:10:25,720
+<font face="Arabic Typesetting" size="14" color="white">لا يمكنكـ الخروج فوراً في الحقل، هل كل شي على مايرام؟</font>
+
+148
+00:10:30,230 --> 00:10:32,520
+<font face="Arabic Typesetting" size="14" color="white">الآنـ أينـ هي شاشة الحالة؟</font>
+
+149
+00:10:35,570 --> 00:10:37,320
+<font face="Arabic Typesetting" size="14" color="white">ماهذا؟</font>
+
+150
+00:10:37,320 --> 00:10:38,820
+<font face="Arabic Typesetting" size="14" color="white">هل هذا خلل ما؟</font>
+
+151
+00:10:39,320 --> 00:10:41,280
+{\an9}
+<font face="Arabic Typesetting" size="12" color="cyan">
+أسلوب السيف الواحد
+؟؟؟؟
+أسلحة الرمي
+أسلحة الدفاع
+مولد الحركات القتالية
+بحث
+متابعة
+إخفاء
+الرؤية الليلية
+اضاقة حمل الثقل
+الجري
+</font>
+
+152
+00:10:42,950 --> 00:10:45,450
+<font face="Arabic Typesetting" size="14" color="white">...إنها بالضبط مثل قائمة لعبة فنـ السيف على الانترنت</font>
+
+153
+00:10:47,160 --> 00:10:48,710
+<font face="Arabic Typesetting" size="14" color="white">ما الذي يحدث؟</font>
+
+154
+00:10:49,210 --> 00:10:51,630
+<font face="Arabic Typesetting" size="14" color="white">هل هذهـ اللعبة داخل فنـ السيف على الانترنت؟</font>
+
+155
+00:11:00,180 --> 00:11:01,300
+<font face="Arabic Typesetting" size="14" color="white">لحظة</font>
+
+156
+00:11:02,510 --> 00:11:05,470
+<font face="Arabic Typesetting" size="14" color="white">...أرجوكي كوني هنا</font>
+
+157
+00:11:48,350 --> 00:11:50,310
+<font face="Arabic Typesetting" size="14" color="white">!يووي، هذا أنا</font>
+
+158
+00:11:50,850 --> 00:11:52,140
+<font face="Arabic Typesetting" size="14" color="white">هل تتذكرينني؟</font>
+
+159
+00:11:56,320 --> 00:11:59,440
+<font face="Arabic Typesetting" size="14" color="white">!تمكنت منـ رؤيتكـ مرة أخرى، أبي</font>
+
+160
+00:12:01,280 --> 00:12:02,280
+<font face="Arabic Typesetting" size="14" color="white">...يووي</font>
+
+161
+00:12:04,740 --> 00:12:05,740
+<font face="Arabic Typesetting" size="14" color="white">أمي</font>
+
+162
+00:12:06,030 --> 00:12:07,580
+<font face="Arabic Typesetting" size="14" color="white">!لا بد أنكـ جائعة</font>
+
+163
+00:12:07,580 --> 00:12:08,620
+<font face="Arabic Typesetting" size="14" color="white">لنأكل</font>
+
+164
+00:12:08,620 --> 00:12:09,580
+<font face="Arabic Typesetting" size="14" color="white">!أجل</font>
+
+165
+00:12:17,210 --> 00:12:18,420
+<font face="Arabic Typesetting" size="14" color="white">...إنهـ لذيذ</font>
+
+166
+00:12:18,920 --> 00:12:20,050
+<font face="Arabic Typesetting" size="14" color="white">...أمي</font>
+
+167
+00:12:20,050 --> 00:12:21,220
+<font face="Arabic Typesetting" size="14" color="white">...أبي</font>
+
+168
+00:12:23,800 --> 00:12:24,890
+<font face="Arabic Typesetting" size="14" color="white">!أبي</font>
+
+169
+00:12:25,430 --> 00:12:26,890
+<font face="Arabic Typesetting" size="14" color="white">!أبي</font>
+
+170
+00:12:28,180 --> 00:12:29,180
+<font face="Arabic Typesetting" size="14" color="white">...أبي</font>
+
+171
+00:12:31,480 --> 00:12:34,140
+<font face="Arabic Typesetting" size="14" color="white">المعجزات حقا تحدث</font>
+
+172
+00:12:45,950 --> 00:12:49,450
+<font face="Arabic Typesetting" size="14" color="white">إذاً مالذي يحدث هنا؟</font>
+
+173
+00:12:50,660 --> 00:12:53,870
+<font face="Arabic Typesetting" size="14" color="white">نحنـ لسنا داخل فنـ السيف على الانترنت</font>
+
+174
+00:12:54,290 --> 00:12:58,170
+<font face="Arabic Typesetting" size="14" color="white">إنها لعبة أخرى تدعى أرض الجنـ على الانترنت</font>
+
+175
+00:12:59,460 --> 00:13:01,210
+<font face="Arabic Typesetting" size="14" color="white">انتظر قليلاً</font>
+
+176
+00:13:03,220 --> 00:13:08,510
+<font face="Arabic Typesetting" size="14" color="white">هذا العالم هو نسخة منـ خوادم لعبة فنـ السيف على الانترنت</font>
+
+177
+00:13:08,800 --> 00:13:09,810
+<font face="Arabic Typesetting" size="14" color="white">نسخة؟</font>
+
+178
+00:13:09,810 --> 00:13:10,720
+<font face="Arabic Typesetting" size="14" color="white">أجل</font>
+
+179
+00:13:11,180 --> 00:13:15,310
+<font face="Arabic Typesetting" size="14" color="white">المحركـ، البرمجة، و نسق الرسومات كلها متطابقة</font>
+
+180
+00:13:15,770 --> 00:13:19,980
+<font face="Arabic Typesetting" size="14" color="white">لكنـ نسخة نظام الكاردينال قديمة بعض الشيء</font>
+
+181
+00:13:15,770 --> 00:13:19,980
+{\an8}
+<font face="Arabic Typesetting" size="12" color="cyan">الكاردينال : النظام الذي يدير اللعبة</font>
+
+182
+00:13:22,110 --> 00:13:27,070
+<font face="Arabic Typesetting" size="14" color="white">ركتـ الآنـ تقوم بالمهام بعد شركة آرغوس التي قامت بصنع ساو في الأصل</font>
+
+183
+00:13:27,570 --> 00:13:33,160
+<font face="Arabic Typesetting" size="14" color="white">بعبارة أخرى، ركت أخذوا برنامج آرغوس و قاموا باستخدامهـ</font>
+
+184
+00:13:33,580 --> 00:13:37,120
+<font face="Arabic Typesetting" size="14" color="white">لكـ لم بياناتي الشخصية موجودة هنا؟</font>
+
+185
+00:13:37,120 --> 00:13:40,710
+<font face="Arabic Typesetting" size="14" color="white">دعني ألق نظرة على بياناتكـ أبي</font>
+
+186
+00:13:43,050 --> 00:13:44,800
+<font face="Arabic Typesetting" size="14" color="white">هذهـ بالتأكيد</font>
+
+187
+00:13:44,800 --> 00:13:49,720
+<font face="Arabic Typesetting" size="14" color="white">بيانات شخصيتكـ منـ اللعبة الأولى</font>
+
+188
+00:13:49,720 --> 00:13:53,310
+<font face="Arabic Typesetting" size="14" color="white">،نسق البيانات المحفوظة تقريباً متطابقـ</font>
+
+189
+00:13:53,310 --> 00:13:57,980
+<font face="Arabic Typesetting" size="14" color="white">لذا بيانات المهارات الممشتركة في كلا اللعبتينـ تأخذ آخر المعلومات</font>
+
+190
+00:13:58,440 --> 00:14:01,440
+<font face="Arabic Typesetting" size="14" color="white">بالتفكير في ذلكـ، مهارة استخدام السيفينـ قد اختفت</font>
+
+191
+00:14:01,770 --> 00:14:05,400
+<font face="Arabic Typesetting" size="14" color="white">يبدو أنـ أدواتكـ أيضاً قد فقدت</font>
+
+192
+00:14:05,860 --> 00:14:09,780
+<font face="Arabic Typesetting" size="14" color="white">يجب عليكـ حذفها قبل أنـ يجدها برنامج اكتشاف الاخطاء</font>
+
+193
+00:14:10,320 --> 00:14:11,450
+<font face="Arabic Typesetting" size="14" color="white">أفهمكـ</font>
+
+194
+00:14:15,120 --> 00:14:17,580
+<font face="Arabic Typesetting" size="14" color="white">هل تريد حذف جميع الأدوات؟</font>
+
+195
+00:14:28,800 --> 00:14:31,760
+<font face="Arabic Typesetting" size="14" color="white">الآنـ، ماذا عنـ مستوى مهاراتي؟</font>
+
+196
+00:14:31,760 --> 00:14:38,100
+<font face="Arabic Typesetting" size="14" color="white">مهاراتكـ لنـ تشكل أي مشكلة إلا إذا رآها مسئول اللعبة</font>
+
+197
+00:14:38,100 --> 00:14:39,730
+<font face="Arabic Typesetting" size="14" color="white">...حـ حسناً</font>
+
+198
+00:14:40,940 --> 00:14:45,230
+<font face="Arabic Typesetting" size="14" color="white">أنا لم أعد بييتر بعد الآنـ، أنا فقط غشاشـ</font>
+
+199
+00:14:40,940 --> 00:14:48,030
+{\an8}
+<font face="Arabic Typesetting" size="10" color="cyan">
+بييتر : وتعني الشخص الذي اختبر النسخة التجريبية و حقق فيها إنجازات كبيرة ويقوم باستخدام معرفتهـ في تطوير مستواهـ
+تكررت هذهـ الكلمة في لعبة فنـ السيف على الانترنت على سبيل الشتم في معظم الأحيان وهي دمج لكلمتي
+مختبر للنسخة التجريبية وغشاش
+Beta tester + Cheater = Beater...
+</font>
+
+200
+00:14:45,650 --> 00:14:48,200
+<font face="Arabic Typesetting" size="14" color="white">كيف يتعامل النظام معكـ يووي؟</font>
+
+201
+00:14:48,900 --> 00:14:49,910
+<font face="Arabic Typesetting" size="14" color="white">...لنرى</font>
+
+202
+00:14:50,490 --> 00:14:54,030
+<font face="Arabic Typesetting" size="14" color="white">،أنا مصنفة كتطبيق الشخصية الاصطناعية لمساعدة اللاعبينـ</font>
+
+203
+00:14:54,030 --> 00:14:56,700
+<font face="Arabic Typesetting" size="14" color="white">الجنية المساعدة</font>
+
+204
+00:14:54,030 --> 00:14:56,700
+{\an8}
+<font face="Arabic Typesetting" size="12" color="cyan">الجني المساعد : عرقـ لا يمكنـ اختيارهـ لكنـ اللاعب القوي بإمكانهـ الحصول عليهـ ليساعدهـ في الانتقال منـ مكانـ إلى آخر</font>
+
+205
+00:15:08,050 --> 00:15:10,130
+<font face="Arabic Typesetting" size="14" color="white">هذا مظهري في النظام</font>
+
+206
+00:15:13,510 --> 00:15:15,260
+<font face="Arabic Typesetting" size="14" color="white">هذا يدغدغ</font>
+
+207
+00:15:15,260 --> 00:15:19,100
+<font face="Arabic Typesetting" size="14" color="white">إذاً هل لازلت تملكينـ صلاحيات ادارية مثل السابقـ؟</font>
+
+208
+00:15:19,560 --> 00:15:20,480
+<font face="Arabic Typesetting" size="14" color="white">لا</font>
+
+209
+00:15:20,480 --> 00:15:25,400
+<font face="Arabic Typesetting" size="14" color="white">المعلومات و بيانات الخرائط هما كل ما يمكنني الوصول إليهـ</font>
+
+210
+00:15:25,400 --> 00:15:26,440
+<font face="Arabic Typesetting" size="14" color="white">أفهمكـ</font>
+
+211
+00:15:27,610 --> 00:15:31,360
+<font face="Arabic Typesetting" size="14" color="white">...في الواقع، يبدو أنـ أسونا</font>
+
+212
+00:15:31,360 --> 00:15:33,160
+<font face="Arabic Typesetting" size="14" color="white">أماهـ متواجدة هنا</font>
+
+213
+00:15:33,870 --> 00:15:35,030
+<font face="Arabic Typesetting" size="14" color="white">أمي؟</font>
+
+214
+00:15:35,030 --> 00:15:36,830
+<font face="Arabic Typesetting" size="14" color="white">ماذا تعني؟</font>
+
+215
+00:15:37,120 --> 00:15:41,750
+<font face="Arabic Typesetting" size="14" color="white">حتى بعد إنهاء لعبة فنـ السيف على الانترنت، أسونا لم تستيقظ أبداً في العالم الحقيقي</font>
+
+216
+00:15:42,580 --> 00:15:47,800
+<font face="Arabic Typesetting" size="14" color="white">سمعت أنـ أحدهم رآها هنا في أرض الجنـ</font>
+
+217
+00:15:47,800 --> 00:15:49,340
+<font face="Arabic Typesetting" size="14" color="white">...إذاً هذا ما حدث</font>
+
+218
+00:15:50,170 --> 00:15:52,720
+<font face="Arabic Typesetting" size="14" color="white">أعرف أينـ أبحث عنها</font>
+
+219
+00:15:53,140 --> 00:15:55,430
+<font face="Arabic Typesetting" size="14" color="white">إنهـ مكانـ يدعى شجرة العالم</font>
+
+220
+00:15:55,890 --> 00:15:57,180
+<font face="Arabic Typesetting" size="14" color="white">أعتقد أنـ ذلكـ هو</font>
+
+221
+00:15:57,850 --> 00:16:00,480
+<font face="Arabic Typesetting" size="14" color="white">أمي هناكـ؟</font>
+
+222
+00:16:05,110 --> 00:16:06,610
+<font face="Arabic Typesetting" size="14" color="white">،في الواقع</font>
+
+223
+00:16:06,610 --> 00:16:09,940
+<font face="Arabic Typesetting" size="14" color="white">لم وُضعت في هذهـ الغابة الخالية؟</font>
+
+224
+00:16:10,530 --> 00:16:13,660
+<font face="Arabic Typesetting" size="14" color="white">...كانـ منـ المفترض أنـ أُنقل إلى المدينة الرئيسية</font>
+
+225
+00:16:14,160 --> 00:16:15,410
+<font face="Arabic Typesetting" size="14" color="white">لا أعلم</font>
+
+226
+00:16:15,410 --> 00:16:17,740
+<font face="Arabic Typesetting" size="14" color="white">ربما معلومات المكانـ قد خُربت؟</font>
+
+227
+00:16:17,740 --> 00:16:20,040
+<font face="Arabic Typesetting" size="14" color="white">أو أنـ خللاً ما قد حدث؟</font>
+
+228
+00:16:20,040 --> 00:16:24,460
+<font face="Arabic Typesetting" size="14" color="white">أتمنى لو أنـ النظام وضعني قرب شجرة العالم</font>
+
+229
+00:16:29,420 --> 00:16:30,920
+<font face="Arabic Typesetting" size="14" color="white">هذهـ هي الأجنحة، هاهـ؟</font>
+
+230
+00:16:31,340 --> 00:16:33,010
+<font face="Arabic Typesetting" size="14" color="white">كيف لي أنـ أحلق؟</font>
+
+231
+00:16:34,010 --> 00:16:36,430
+<font face="Arabic Typesetting" size="14" color="white">هناكـ جهاز تحكم مساعد</font>
+
+232
+00:16:36,430 --> 00:16:40,600
+<font face="Arabic Typesetting" size="14" color="white">إرفع يدكـ اليسرى كما لو كنت تمسكـ شيئاً</font>
+
+233
+00:16:45,520 --> 00:16:48,230
+<font face="Arabic Typesetting" size="14" color="white">اسحب بإتجاهكـ للإنطلاق للأعلى</font>
+
+234
+00:16:48,230 --> 00:16:49,730
+<font face="Arabic Typesetting" size="14" color="white">إدفع لتنزل إلى الأسفل</font>
+
+235
+00:16:49,730 --> 00:16:51,690
+<font face="Arabic Typesetting" size="14" color="white">أيسر و أيمنـ للإستدارة</font>
+
+236
+00:16:56,990 --> 00:16:59,120
+<font face="Arabic Typesetting" size="14" color="white">اضغط على الزر للتسارع</font>
+
+237
+00:16:59,120 --> 00:17:01,330
+<font face="Arabic Typesetting" size="14" color="white">و اتركهـ للإبطاء</font>
+
+238
+00:17:04,790 --> 00:17:07,790
+<font face="Arabic Typesetting" size="14" color="white">بإمكانكـ التحليق مادام أنـ أجنحتكـ تلمع</font>
+
+239
+00:17:08,960 --> 00:17:11,210
+<font face="Arabic Typesetting" size="14" color="white">،بعد مدة محددة منـ الزمنـ</font>
+
+240
+00:17:11,210 --> 00:17:13,470
+<font face="Arabic Typesetting" size="14" color="white">يجب عليكـ أنـ تدع أجنحتكـ تستريح</font>
+
+241
+00:17:20,720 --> 00:17:21,930
+<font face="Arabic Typesetting" size="14" color="white">...أرى</font>
+
+242
+00:17:21,930 --> 00:17:23,310
+<font face="Arabic Typesetting" size="14" color="white">أعتقد أني قد تمكنت منها</font>
+
+243
+00:17:23,310 --> 00:17:26,690
+<font face="Arabic Typesetting" size="14" color="white">حسناً الآنـ، أينـ أقرب مدينة؟</font>
+
+244
+00:17:27,150 --> 00:17:31,480
+<font face="Arabic Typesetting" size="14" color="white">هناكـ مدينة في مقاطعة السيلف تدعى سيلفينـ متواجدة في الغرب</font>
+
+245
+00:17:31,480 --> 00:17:32,900
+<font face="Arabic Typesetting" size="14" color="white">...هذهـ أقرب مدينة</font>
+
+246
+00:17:34,650 --> 00:17:35,740
+<font face="Arabic Typesetting" size="14" color="white">ما الخطب؟</font>
+
+247
+00:17:35,740 --> 00:17:37,610
+<font face="Arabic Typesetting" size="14" color="white">هناكـ لاعبونـ بالقرب منـ هنا</font>
+
+248
+00:17:55,420 --> 00:17:56,300
+<font face="Arabic Typesetting" size="14" color="white">...ليـ</font>
+
+249
+00:17:56,300 --> 00:17:58,800
+<font face="Arabic Typesetting" size="14" color="white">!انتظري ليفا</font>
+
+250
+00:17:59,180 --> 00:18:00,930
+<font face="Arabic Typesetting" size="14" color="white">!بإمكانكـ فعلها ريكونـ</font>
+
+251
+00:18:00,930 --> 00:18:03,430
+<font face="Arabic Typesetting" size="14" color="white">...لو فقط تمكنا منـ الهروب منـ</font>
+
+252
+00:18:04,350 --> 00:18:05,520
+<font face="Arabic Typesetting" size="14" color="white">!تجنبـ ذلكـ ريكونـ</font>
+
+253
+00:18:09,020 --> 00:18:11,610
+<font face="Arabic Typesetting" size="14" color="white">!تراجع الآنـ</font>
+
+254
+00:18:12,610 --> 00:18:13,730
+<font face="Arabic Typesetting" size="14" color="white">...حسناً</font>
+
+255
+00:18:14,490 --> 00:18:16,030
+<font face="Arabic Typesetting" size="14" color="white">!استعد للمعركة</font>
+
+256
+00:18:17,110 --> 00:18:18,200
+<font face="Arabic Typesetting" size="14" color="white">...لا يمكننا</font>
+
+257
+00:18:18,200 --> 00:18:20,950
+<font face="Arabic Typesetting" size="14" color="white">...أنا متأكد أن سيقورد و الآخرينـ هم بالفعل</font>
+
+258
+00:18:21,240 --> 00:18:23,370
+<font face="Arabic Typesetting" size="14" color="white">،سأفعل جميع ما بإستطاعتي لأشتت انتباهم</font>
+
+259
+00:18:23,370 --> 00:18:25,250
+<font face="Arabic Typesetting" size="14" color="white">إذاً حاول و أهزم واحداً منهم</font>
+
+260
+00:18:25,660 --> 00:18:27,040
+<font face="Arabic Typesetting" size="14" color="white">سأفعل ما بوسعي</font>
+
+261
+00:18:27,670 --> 00:18:29,710
+<font face="Arabic Typesetting" size="14" color="white">يجب عليكـ فعل شيء مفيد على الأقل مرة كل مدة، صحيح؟</font>
+
+262
+00:18:51,060 --> 00:18:52,560
+<font face="Arabic Typesetting" size="14" color="white">!تباً</font>
+
+263
+00:19:02,280 --> 00:19:03,620
+<font face="Arabic Typesetting" size="14" color="white">!بإمكاننا الفوز</font>
+
+264
+00:19:07,160 --> 00:19:08,580
+<font face="Arabic Typesetting" size="14" color="white">!أيها الأحمق! لاتتوقف</font>
+
+265
+00:19:10,580 --> 00:19:12,460
+<font face="Arabic Typesetting" size="14" color="white">!آسف</font>
+
+266
+00:19:14,130 --> 00:19:15,050
+<font face="Arabic Typesetting" size="14" color="white">...ريكونـ</font>
+
+267
+00:19:45,160 --> 00:19:46,330
+<font face="Arabic Typesetting" size="14" color="white">،آسف</font>
+
+268
+00:19:46,330 --> 00:19:48,250
+<font face="Arabic Typesetting" size="14" color="white">لكنـ، نحنـ في مهمة</font>
+
+269
+00:19:48,750 --> 00:19:51,370
+<font face="Arabic Typesetting" size="14" color="white">أعطنا أموالكـ و أدواتكـ و سنقوم بترككـ تذهبينـ</font>
+
+270
+00:19:51,370 --> 00:19:54,000
+<font face="Arabic Typesetting" size="14" color="white">لم تتصرف بنُبل، كاجمينو؟</font>
+
+271
+00:19:54,000 --> 00:19:56,340
+<font face="Arabic Typesetting" size="14" color="white">لم نقاتل إمرأة منذ زمنـ طويل جداً</font>
+
+272
+00:19:56,340 --> 00:19:57,960
+<font face="Arabic Typesetting" size="14" color="white">لنقتلها</font>
+
+273
+00:20:00,420 --> 00:20:03,140
+<font face="Arabic Typesetting" size="14" color="white">لنـ أُقتل هكذا ببساطة سأقوم على الأقل بقتل واحد منكم أولاً</font>
+
+274
+00:20:03,640 --> 00:20:06,890
+<font face="Arabic Typesetting" size="14" color="white">!ليتقدم لقتالي منـ لايخاف الموت منكم</font>
+
+275
+00:20:07,220 --> 00:20:08,770
+<font face="Arabic Typesetting" size="14" color="white">فتاة قوية</font>
+
+276
+00:20:09,600 --> 00:20:10,850
+<font face="Arabic Typesetting" size="14" color="white">حسنٌـ جداً</font>
+
+277
+00:20:38,550 --> 00:20:41,470
+<font face="Arabic Typesetting" size="14" color="white">...يجب عليَّ أنـ أتدرب على الهبوط</font>
+
+278
+00:20:47,100 --> 00:20:49,350
+<font face="Arabic Typesetting" size="14" color="white">!ما الذي تفعلهـ؟ اهرب</font>
+
+279
+00:20:50,100 --> 00:20:53,940
+<font face="Arabic Typesetting" size="14" color="white">ثلاث محاربينـ أشداء يقاتلونـ فتاة واحدة؟</font>
+
+280
+00:20:53,940 --> 00:20:56,110
+<font face="Arabic Typesetting" size="14" color="white">هذا مثير للشفقة نوعا ما</font>
+
+281
+00:20:56,110 --> 00:20:57,690
+<font face="Arabic Typesetting" size="14" color="white">!ما الذي للتو قلتهـ؟</font>
+
+282
+00:20:57,690 --> 00:21:00,230
+<font face="Arabic Typesetting" size="14" color="white">ابقَ بعيداً عنـ هذا الأمر أيها المبتدئ</font>
+
+283
+00:21:04,490 --> 00:21:07,990
+<font face="Arabic Typesetting" size="14" color="white">!إذاً سنقاتلكـ أيضاً</font>
+
+284
+00:21:24,760 --> 00:21:26,260
+<font face="Arabic Typesetting" size="14" color="white">...ام</font>
+
+285
+00:21:26,260 --> 00:21:29,640
+<font face="Arabic Typesetting" size="14" color="white">أبإمكاني قتلهم؟</font>
+
+286
+00:21:30,140 --> 00:21:32,930
+<font face="Arabic Typesetting" size="14" color="white">...أ أعتقد ذلكـ</font>
+
+287
+00:21:33,480 --> 00:21:36,560
+<font face="Arabic Typesetting" size="14" color="white">هم يخططونـ لقتلكـ</font>
+
+288
+00:21:36,850 --> 00:21:38,900
+<font face="Arabic Typesetting" size="14" color="white">حسناً إذاً</font>
+
+289
+00:21:47,740 --> 00:21:48,700
+<font face="Arabic Typesetting" size="14" color="white">قد اختفى؟</font>
+
+290
+00:22:02,590 --> 00:22:04,380
+<font face="Arabic Typesetting" size="14" color="white">منـ التالي؟</font>
+
+291
+00:22:06,105 --> 00:22:10,125
+{\an8}
+<font face="Arabic Typesetting" size="12" color="cyan">
+Fadi_ : هذه الترجمة بواسطة
+</font>
+
+292
+00:22:06,105 --> 00:22:07,225
+<font face="Arabic Typesetting" size="14" color="cyan">♪إلى الأعلى♪</font>
+
+293
+00:22:07,978 --> 00:22:09,098
+<font face="Arabic Typesetting" size="14" color="cyan">♪إلى الأعلى♪</font>
+
+294
+00:22:09,874 --> 00:22:13,394
+<font face="Arabic Typesetting" size="14" color="cyan">♪أَرفَعُ يدي إلى الأعلى صارخاً♪</font>
+
+295
+00:22:13,401 --> 00:22:14,521
+<font face="Arabic Typesetting" size="14" color="cyan">♪أنا متيقنـ♪</font>
+
+296
+00:22:15,175 --> 00:22:16,295
+<font face="Arabic Typesetting" size="14" color="cyan">♪أنا متيقنـ♪</font>
+
+297
+00:22:17,041 --> 00:22:21,061
+<font face="Arabic Typesetting" size="14" color="cyan">♪سأتمنى مرة أخرى♪</font>
+
+298
+00:22:34,349 --> 00:22:37,869
+<font face="Arabic Typesetting" size="14" color="cyan">♪فكري الدائم♪</font>
+
+299
+00:22:37,896 --> 00:22:41,316
+<font face="Arabic Typesetting" size="14" color="cyan">♪تطغى عليهـ الأيام العادية♪</font>
+
+300
+00:22:41,356 --> 00:22:46,276
+<font face="Arabic Typesetting" size="14" color="cyan">♪اختلف الآنـ مرة أخرى♪</font>
+
+301
+00:22:46,338 --> 00:22:48,758
+<font face="Arabic Typesetting" size="14" color="cyan">♪عندما أصبح غير ثابت♪</font>
+
+302
+00:22:48,806 --> 00:22:52,026
+<font face="Arabic Typesetting" size="14" color="cyan">♪أتسائل إنـ تأخرتُ جداً الآنـ؟♪</font>
+
+303
+00:22:52,120 --> 00:22:55,740
+<font face="Arabic Typesetting" size="14" color="cyan">♪التسائلات داخلي ليس لها جواب♪</font>
+
+304
+00:22:55,755 --> 00:22:58,575
+<font face="Arabic Typesetting" size="14" color="cyan">♪كل شيء، نعم هو مناط بي♪</font>
+
+305
+00:22:58,645 --> 00:23:00,365
+<font face="Arabic Typesetting" size="14" color="cyan">♪كِـلا♪</font>
+
+306
+00:23:00,416 --> 00:23:03,336
+<font face="Arabic Typesetting" size="14" color="cyan">♪ البداية و النهاية أيضا♪</font>
+
+307
+00:23:03,427 --> 00:23:04,547
+<font face="Arabic Typesetting" size="14" color="cyan">♪إلى الأعلى♪</font>
+
+308
+00:23:05,297 --> 00:23:06,417
+<font face="Arabic Typesetting" size="14" color="cyan">♪إلى الأعلى♪</font>
+
+309
+00:23:07,331 --> 00:23:10,651
+<font face="Arabic Typesetting" size="14" color="cyan">♪أَرفَعُ يدي إلى الأعلى صارخاً♪</font>
+
+310
+00:23:10,659 --> 00:23:17,879
+<font face="Arabic Typesetting" size="14" color="cyan">♪سأحلقـ بإتجاهـ ذلكـ الضوء الدافء♪</font>
+
+311
+00:23:17,921 --> 00:23:24,941
+<font face="Arabic Typesetting" size="14" color="cyan">♪متمسكاً بنار العاطفة في قلبي♪</font>
+
+312
+00:23:24,988 --> 00:23:26,108
+<font face="Arabic Typesetting" size="14" color="cyan">♪أنا متيقنـ♪</font>
+
+313
+00:23:26,746 --> 00:23:27,866
+<font face="Arabic Typesetting" size="14" color="cyan">♪أنا متيقنـ♪</font>
+
+314
+00:23:28,370 --> 00:23:29,490
+<font face="Arabic Typesetting" size="14" color="cyan">♪سأتمنى مرة أخرى♪</font>
+
+315
+00:23:35,060 --> 00:23:40,180
+<font face="Arabic Typesetting" size="14" color="cyan">: الحلقة القادمة
+الملكة الأسيرة</font>
